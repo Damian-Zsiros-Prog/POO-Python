@@ -13,7 +13,3 @@ class Persona:
 			print("Es mayor de edad")
 		else:
 			print("No es mayor de edad")
-
-persona = Persona("damian","gomez",14)
-persona.nombreCompleto()
-persona.mayorDeEdad()
